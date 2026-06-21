@@ -4,6 +4,12 @@ High-level objective definitions for the Price Tracker application. Each objecti
 
 ---
 
+## Purpose
+
+Tracking a product's price and availability across several online stores by hand is tedious and easy to forget, so good moments to buy — a price drop, a restock — get missed. Jino-PriceTracker is for online shoppers who follow specific products across multiple stores and want to buy at the right moment without checking each store manually (initially, the project owner). Its purpose is to monitor the products a user cares about and notify them when a price or stock condition they defined is met.
+
+---
+
 ## Objective 1: Data Acquisition & Scraping
 
 **Core Definition:** Build scraping system to extract product prices and stock from target websites, scheduled for high-volume acquisition with fallback deep-search capability.
