@@ -1,0 +1,66 @@
+# Claude Code
+.claude/settings.local.json
+
+# Visual Studio / IDE
+.vs/
+.vscode/
+.idea/
+*.sln.user
+*.suo
+*.user
+*.userosscache
+*.userprefs
+*.ldf
+*.swp
+*.swo
+*~
+
+# C# / .NET
+bin/
+obj/
+[Bb]in/
+[Oo]bj/
+bld/
+*.dll
+*.exe
+*.pdb
+*.cache
+*.VisualState.xml
+TestResult.xml
+nunit-*.xml
+*.trx
+*.cover
+.coveragexml
+
+# Blazor / WebAssembly
+wwwroot/service-worker*.js
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+[Xx]64/
+[Xx]86/
+[Ww][Ii][Nn]32/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+[Ll]og/
+[Ll]ogs/
+
+# Local/environment files
+.env
+.env.local
+.env.*.local
+appsettings.local.json
+appsettings.*.local.json
+launchSettings.json
+
+# NPM (if using Node)
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# OS
+.DS_Store
+Thumbs.db
