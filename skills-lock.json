@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "skills": {
+    "aspire": {
+      "source": "microsoft/aspire-skills",
+      "sourceType": "github",
+      "skillPath": "skills/aspire/SKILL.md",
+      "computedHash": "5717a88f59cd14948b6e6453327541d4b3b382beab3b8492c270371655eaa45d"
+    },
+    "author-component": {
+      "source": "dotnet/skills",
+      "sourceType": "github",
+      "skillPath": "plugins/dotnet-blazor/skills/author-component/SKILL.md",
+      "computedHash": "ca586b712c7b1559a0b15982eae855bca6cdf261f2f357357b1f5c61512fbcd0"
+    },
+    "create-blazor-project": {
+      "source": "dotnet/skills",
+      "sourceType": "github",
+      "skillPath": "plugins/dotnet-blazor/skills/create-blazor-project/SKILL.md",
+      "computedHash": "e307489077e9982c4806f3de58f0ac823ec5013f139e076355d305c587f586b1"
+    }
+  }
+}
