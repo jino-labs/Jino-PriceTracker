@@ -1,3 +1,9 @@
+<!--
+  Title MUST be: [MERGE] <source-branch> to <destination-branch>
+  Example: [MERGE] feature/scraper to main
+  PRs whose title does not match are rejected by the "PR Title" check.
+-->
+
 ## Summary
 
 <!-- What does this PR do and why? Link the objective/milestone or issue. -->
